@@ -1,10 +1,8 @@
 # Awesome-Lane-Detection
 
-
-# awesome-lane-detection
 Lane Detection
 
-![](img/Lane_Detection_Demo.jpg)
+![demo-image](img/Lane_Detection_Demo.jpg)
 
 [Paper](#Paper)
 
