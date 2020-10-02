@@ -163,6 +163,25 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 
 [Tutorial: Build a lane detector](https://towardsdatascience.com/tutorial-build-a-lane-detector-679fd8953132)
 
+1、[LaneNet](https://arxiv.org/abs/1802.05591)《Real-Time LaneDtection Networks for Autonomous Driving》 github: https://github.com/MaybeShewill-CV/lanenet-lane-detection
+
+2、[SAD](https://arxiv.org/pdf/1908.00821.pdf)《Learning Lightweight Lane Detection CNNs by Self Atrention Distillation》 github: https://github.com/cardwing/Codes-for-Lane-Detection
+
+3、[PiNet](https://arxiv.org/abs/2002.06604)《Key Points Estimation and Point Instance Segmentation Approach for Lane Detection》 github: https://github.com/koyeongmin/PINet
+
+[PolyLaneNet：最新车道线检测开源算法，多项式回归实时高效](https://mp.weixin.qq.com/s/u-mMA6oZiQ8EvhVqUYJMwg)
+
+[ECCV2020 | 300+FPS！浙大提出一种超快速车道线检测方法](https://mp.weixin.qq.com/s/NvVh3GO9iOGsftYgOlRb3Q)
+
+[ECCV2020 | Gen-LaneNet：百度Apollo提出两阶段的3D车道线检测算法，已开源](https://mp.weixin.qq.com/s/AgMIgrTjfwlgCxnrr7JCRA)
+
+[CurcveLane-NAS：华为&中大提出一种结合NAS的曲线车道检测算法](https://mp.weixin.qq.com/s/pQUKFZRgG1LNPmE6oHY3GA)
+
+[韩国研究院最新开源——基于关键点估计和实例分割的车道线检测方法](https://mp.weixin.qq.com/s/Qv1fK6mLTB4hC0Dn0drMfQ)
+
+[鲁汶大学提出可端到端学习的车道线检测算法](https://mp.weixin.qq.com/s/YTP4L1f7RAO2HAWNzts-lg)
+
+
 # Datasets
 
 - [TuSimple](https://github.com/TuSimple/tusimple-benchmark)
