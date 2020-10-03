@@ -2,7 +2,7 @@
 
 Lane Detection
 
-![demo-image](img/Lane_Detection_Demo.jpg)
+![demo-image](image/lane-detection-demo.gif)
 
 [Paper](#Paper)
 
