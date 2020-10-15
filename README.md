@@ -6,7 +6,6 @@ Lane Detection
     <img src="image/lane-detection-demo.gif" alt="demo-image" >
 </p>
 
-![demo-image](image/lane-detection-demo.gif)
 
 [Paper](#Paper)
 
