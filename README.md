@@ -1,12 +1,11 @@
 # Awesome-Lane-Detection
 
-Lane Detection
-
 <p align="center">
     <img src="image/lane-detection-demo.gif" alt="demo-image" >
+    <br>Lane Detection Demo
 </p>
 
-# Content
+## Content
 * [Paper](#Paper)
   * [2020](#2020)
   * [2019](#2019)
