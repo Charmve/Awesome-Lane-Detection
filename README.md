@@ -7,30 +7,15 @@ Lane Detection
 </p>
 
 # Content
-```
-Awesome-Lane-Detection
- |-- [Paper](#Paper)
- |  |-- [2020](#2020)
- |  |-- [2019](#2019)
- |  |-- [2018](#2018)
- |  |-- [2017](#2017)
- |-- [Code](#Code)
- |-- [Blog/Tutorial](#Blog/Tutorial)
- |-- [Datasets](#Datasets)
-```
+* [Paper](#Paper)
+  * [2020](#2020)
+  * [2019](#2019)
+  * [2018](#2018)
+  * [2017](#2017)
+* [Code](#Code)
+* [Blog/Tutorial](#Blog/Tutorial)
+* [Datasets](#Datasets)
 
-[Paper](#Paper)
-
-- [2020](#2020)
-- [2019](#2019)
-- [2018](#2018)
-- [2017](#2017)
-
-[Code](#Code)
-
-[Blog/Tutorial](#Blog/Tutorial)
-
-[Datasets](#Datasets)
 
 ## Paper
 
