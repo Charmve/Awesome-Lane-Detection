@@ -6,6 +6,16 @@ Lane Detection
     <img src="image/lane-detection-demo.gif" alt="demo-image" >
 </p>
 
+# Content
+Awesome-Lane-Detection
+ |-- [Paper](#Paper)
+ |  |-- [2020](#2020)
+ |  |-- [2019](#2019)
+ |  |-- [2018](#2018)
+ |  |-- [2017](#2017)
+ |-- [Code](#Code)
+ |-- [Blog/Tutorial](#Blog/Tutorial)
+ |-- [Datasets](#Datasets)
 
 [Paper](#Paper)
 
@@ -20,11 +30,11 @@ Lane Detection
 
 [Datasets](#Datasets)
 
-# Paper
+## Paper
 
 https://paperswithcode.com/task/lane-detection
 
-## 2020
+### 2020
 
 [RESA: Recurrent Feature-Shift Aggregator for Lane Detection](https://arxiv.org/abs/2008.13719)
 
@@ -64,7 +74,7 @@ https://paperswithcode.com/task/lane-detection
 
 [Multi-lane Detection Using Instance Segmentation and Attentive Voting](https://arxiv.org/abs/2001.00236)   ICCAS 2019 
 
-## 2019
+### 2019
 
 [Dynamic Approach for Lane Detection using Google Street View and CNN](<https://arxiv.org/abs/1909.00798>)  IEEE TENCON 2019
 
@@ -88,7 +98,7 @@ https://paperswithcode.com/task/lane-detection
 
 [End-to-end Lane Detection through Differentiable Least-Squares Fitting](https://arxiv.org/abs/1902.00293)  [github](https://github.com/wvangansbeke/LaneDetection_End2End)
 
-## 2018
+### 2018
 
 [End to End Video Segmentation for Driving : Lane Detection For Autonomous Car](https://arxiv.org/abs/1812.05914)
 
@@ -118,7 +128,7 @@ https://paperswithcode.com/task/lane-detection
 
  [Lane Detection Based on Inverse Perspective Transformation and Kalman Filter](http://itiis.org/digital-library/manuscript/file/1921/TIIS+Vol+12,+No+2-6.pdf)
 
-# 2017
+### 2017
 
 [A review of recent advances in lane detection and departure warning system](https://www.sciencedirect.com/science/article/pii/S0031320317303266)
 
@@ -126,7 +136,7 @@ https://paperswithcode.com/task/lane-detection
 
 [VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition](http://openaccess.thecvf.com/content_iccv_2017/html/Lee_VPGNet_Vanishing_Point_ICCV_2017_paper.html) ICCV 2017 [github](https://github.com/SeokjuLee/VPGNet)
 
-# Code
+## Code
 
 [Lane Detection（Paper with Code）](https://paperswithcode.com/task/lane-detection)
 
@@ -154,7 +164,7 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 
 <https://github.com/shawshany/Advance_LaneFinding>
 
-# Blog/Tutorial
+## Blog/Tutorial
 
 [Lane Detection with Deep Learning (Part 1)](https://towardsdatascience.com/lane-detection-with-deep-learning-part-1-9e096f3320b7)
 
@@ -185,7 +195,7 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 [鲁汶大学提出可端到端学习的车道线检测算法](https://mp.weixin.qq.com/s/YTP4L1f7RAO2HAWNzts-lg)
 
 
-# Datasets
+## Datasets
 
 - [TuSimple](https://github.com/TuSimple/tusimple-benchmark)
 - [CULane](https://xingangpan.github.io/projects/CULane.html)
@@ -200,7 +210,7 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 - [DET](https://spritea.github.io/DET/)
 - [CurveLanes](https://github.com/xbjxh/curvelanes)
 
-# Contact & Feedback
+## Contact & Feedback
 
 If you have any suggestions about papers, feel free to mail me :)
 
