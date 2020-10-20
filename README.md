@@ -200,5 +200,5 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 
 If you have any suggestions about papers, feel free to mail me :)  📧 yidazhang1@gmail.com
 
-- [blog](http://www.cverblog.cn/)
+- [blog](https://blog.csdn.net/charmve/category_10281912.html)
 - [pull](https://github.com/Charmve/awesome-lane-detection/pulls)
