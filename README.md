@@ -40,21 +40,21 @@ https://paperswithcode.com/task/lane-detection
 
 [SUPER: A Novel Lane Detection System](https://arxiv.org/abs/2005.07277)
 
-[Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)  <a href="https://github.com/cfzd/Ultra-Fast-Lane-Detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a>  ECCV 2020
+[Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)  <a href="https://github.com/cfzd/Ultra-Fast-Lane-Detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a>  ECCV 2020
 
-[PolyLaneNet: Lane Estimation via Deep Polynomial Regression](https://github.com/lucastabelini/PolyLaneNet) <a href="https://github.com/lucastabelini/PolyLaneNet" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a> 
+[PolyLaneNet: Lane Estimation via Deep Polynomial Regression](https://github.com/lucastabelini/PolyLaneNet) <a href="https://github.com/lucastabelini/PolyLaneNet" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a> 
 
-[Inter-Region Affinity Distillation for Road Marking Segmentation](https://arxiv.org/abs/2004.05304) <a href="https://github.com/cardwing/Codes-for-IntRA-KD" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a>  CVPR 2020
+[Inter-Region Affinity Distillation for Road Marking Segmentation](https://arxiv.org/abs/2004.05304) <a href="https://github.com/cardwing/Codes-for-IntRA-KD" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a>  CVPR 2020
 
-[Gen-LaneNet: A Generalized and Scalable Approach for 3D Lane Detection](https://arxiv.org/abs/2003.10656)  <a href="https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a> [Datasets](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset)  ECCV 2020
+[Gen-LaneNet: A Generalized and Scalable Approach for 3D Lane Detection](https://arxiv.org/abs/2003.10656)  <a href="https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a> [Datasets](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset)  ECCV 2020
 
 [Detecting Lane and Road Markings at A Distance with Perspective Transformer Layers](https://arxiv.org/abs/2003.08550)
 
 [Semi-Local 3D Lane Detection and Uncertainty Estimation](https://arxiv.org/abs/2003.05257)
 
-[FusionLane: Multi-Sensor Fusion for Lane Marking Semantic Segmentation Using Deep Neural Networks](https://arxiv.org/abs/2003.04404) <a href="https://github.com/rolandying/FusionLane" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a>
+[FusionLane: Multi-Sensor Fusion for Lane Marking Semantic Segmentation Using Deep Neural Networks](https://arxiv.org/abs/2003.04404) <a href="https://github.com/rolandying/FusionLane" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a>
 
-[PINet：Key Points Estimation and Point Instance Segmentation Approach for Lane Detection](https://arxiv.org/abs/2002.06604)  <a href="https://github.com/koyeongmin/PINet" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a>
+[PINet：Key Points Estimation and Point Instance Segmentation Approach for Lane Detection](https://arxiv.org/abs/2002.06604)  <a href="https://github.com/koyeongmin/PINet" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a>
 
 [Better-CycleGAN + ERFNet: Lane Detection in Low-light Conditions Using an Efficient Data Enhancement : Light Conditions Style Transfer](https://arxiv.org/abs/2002.01177)  submitted to IV 2020 
 
@@ -64,7 +64,7 @@ https://paperswithcode.com/task/lane-detection
 
 [Dynamic Approach for Lane Detection using Google Street View and CNN](<https://arxiv.org/abs/1909.00798>)  IEEE TENCON 2019
 
-[Learning Lightweight Lane Detection CNNs by Self Attention Distillation](https://arxiv.org/abs/1908.00821)  <a href="https://github.com/cardwing/Codes-for-Lane-Detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a> ICCV 2019
+[Learning Lightweight Lane Detection CNNs by Self Attention Distillation](https://arxiv.org/abs/1908.00821)  <a href="https://github.com/cardwing/Codes-for-Lane-Detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a> ICCV 2019
 
 [Multi-Class Lane Semantic Segmentation using Efficient Convolutional Networks](https://arxiv.org/abs/1907.09438)  MMSP 2019
 
@@ -74,15 +74,15 @@ https://paperswithcode.com/task/lane-detection
 
 [FastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network](https://arxiv.org/abs/1905.04354)  CVPR 2019
 
-[Agnostic Lane Detection](https://arxiv.org/abs/1905.03704)  <a href="https://github.com/cardwing/Codes-for-Lane-Detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a>
+[Agnostic Lane Detection](https://arxiv.org/abs/1905.03704)  <a href="https://github.com/cardwing/Codes-for-Lane-Detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a>
 
 [Deep Multi-Sensor Lane Detection](https://arxiv.org/abs/1905.01555) IROS2018
 
-[Enhanced free space detection in multiple lanes based on single CNN with scene identification](https://arxiv.org/abs/1905.00941) IV2019 <a href="https://github.com/fabvio/ld-lsi/" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a>
+[Enhanced free space detection in multiple lanes based on single CNN with scene identification](https://arxiv.org/abs/1905.00941) IV2019 <a href="https://github.com/fabvio/ld-lsi/" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a>
 
 [Robust Lane Detection from Continuous Driving Scenes Using Deep Neural Networks](https://arxiv.org/abs/1903.02193)
 
-[End-to-end Lane Detection through Differentiable Least-Squares Fitting](https://arxiv.org/abs/1902.00293)  <a href="https://github.com/wvangansbeke/LaneDetection_End2End" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a>
+[End-to-end Lane Detection through Differentiable Least-Squares Fitting](https://arxiv.org/abs/1902.00293)  <a href="https://github.com/wvangansbeke/LaneDetection_End2End" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a>
 
 ### 2018
 
@@ -104,7 +104,7 @@ https://paperswithcode.com/task/lane-detection
 
  [Real-time Lane Marker Detection Using Template Matching with RGB-D Camera](https://arxiv.org/abs/1806.01621)
 
- [Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591)    [paper study](https://mp.weixin.qq.com/s/sGbSiCHpKjqKe9FP1ykjGw) <a href="https://github.com/MaybeShewill-CV/lanenet-lane-detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a> 
+ [Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591)    [paper study](https://mp.weixin.qq.com/s/sGbSiCHpKjqKe9FP1ykjGw) <a href="https://github.com/MaybeShewill-CV/lanenet-lane-detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a> 
 
  [Lane Detection and Classification for Forward Collision Warning System Based on Stereo Vision](https://ieeexplore.ieee.org/document/8353455/)
 
@@ -120,7 +120,7 @@ https://paperswithcode.com/task/lane-detection
 
 [Deep Learning Lane Marker Segmentation From Automatically Generated Labels](https://ieeexplore.ieee.org/document/7989163/) [Youtube](https://www.youtube.com/watch?v=AH01wpqqaeA)
 
-[VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition](http://openaccess.thecvf.com/content_iccv_2017/html/Lee_VPGNet_Vanishing_Point_ICCV_2017_paper.html) ICCV 2017 <a href="https://github.com/SeokjuLee/VPGNet" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a>
+[VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition](http://openaccess.thecvf.com/content_iccv_2017/html/Lee_VPGNet_Vanishing_Point_ICCV_2017_paper.html) ICCV 2017 <a href="https://github.com/SeokjuLee/VPGNet" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a>
 
 ## Code
 
@@ -162,11 +162,11 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 
 [Tutorial: Build a lane detector](https://towardsdatascience.com/tutorial-build-a-lane-detector-679fd8953132)
 
-1、[LaneNet: Real-Time LaneDtection Networks for Autonomous Driving](https://arxiv.org/abs/1802.05591) <a href="https://github.com/MaybeShewill-CV/lanenet-lane-detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a> https://github.com/MaybeShewill-CV/lanenet-lane-detection
+1、LaneNet: Real-Time LaneDtection Networks for Autonomous Driving [paper](https://arxiv.org/abs/1802.05591) <a href="https://github.com/MaybeShewill-CV/lanenet-lane-detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a>
 
-2、[SAD: Learning Lightweight Lane Detection CNNs by Self Atrention Distillation](https://arxiv.org/pdf/1908.00821.pdf)<a href="https://github.com/cardwing/Codes-for-Lane-Detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a> https://github.com/cardwing/Codes-for-Lane-Detection
+2、SAD: Learning Lightweight Lane Detection CNNs by Self Atrention Distillation [paper](https://arxiv.org/pdf/1908.00821.pdf)<a href="https://github.com/cardwing/Codes-for-Lane-Detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a> 
 
-3、[PiNet: Key Points Estimation and Point Instance Segmentation Approach for Lane Detection](https://arxiv.org/abs/2002.06604) <a href="https://github.com/koyeongmin/PINet" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a> https://github.com/koyeongmin/PINet
+3、PiNet: Key Points Estimation and Point Instance Segmentation Approach for Lane Detection [paper](https://arxiv.org/abs/2002.06604) <a href="https://github.com/koyeongmin/PINet" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a>
 
 [PolyLaneNet：最新车道线检测开源算法，多项式回归实时高效](https://mp.weixin.qq.com/s/u-mMA6oZiQ8EvhVqUYJMwg)
 
