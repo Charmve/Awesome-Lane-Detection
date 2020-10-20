@@ -162,11 +162,11 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 
 [Tutorial: Build a lane detector](https://towardsdatascience.com/tutorial-build-a-lane-detector-679fd8953132)
 
-1、[LaneNet](https://arxiv.org/abs/1802.05591)《Real-Time LaneDtection Networks for Autonomous Driving》 <a href="https://github.com/MaybeShewill-CV/lanenet-lane-detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a> https://github.com/MaybeShewill-CV/lanenet-lane-detection
+1、[LaneNet: Real-Time LaneDtection Networks for Autonomous Driving](https://arxiv.org/abs/1802.05591) <a href="https://github.com/MaybeShewill-CV/lanenet-lane-detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a> https://github.com/MaybeShewill-CV/lanenet-lane-detection
 
-2、[SAD](https://arxiv.org/pdf/1908.00821.pdf)《Learning Lightweight Lane Detection CNNs by Self Atrention Distillation》 <a href="https://github.com/cardwing/Codes-for-Lane-Detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a> https://github.com/cardwing/Codes-for-Lane-Detection
+2、[SAD: Learning Lightweight Lane Detection CNNs by Self Atrention Distillation](https://arxiv.org/pdf/1908.00821.pdf)<a href="https://github.com/cardwing/Codes-for-Lane-Detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a> https://github.com/cardwing/Codes-for-Lane-Detection
 
-3、[PiNet](https://arxiv.org/abs/2002.06604)《Key Points Estimation and Point Instance Segmentation Approach for Lane Detection》 <a href="https://github.com/koyeongmin/PINet" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a> https://github.com/koyeongmin/PINet
+3、[PiNet: Key Points Estimation and Point Instance Segmentation Approach for Lane Detection](https://arxiv.org/abs/2002.06604) <a href="https://github.com/koyeongmin/PINet" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/></a> https://github.com/koyeongmin/PINet
 
 [PolyLaneNet：最新车道线检测开源算法，多项式回归实时高效](https://mp.weixin.qq.com/s/u-mMA6oZiQ8EvhVqUYJMwg)
 
