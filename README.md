@@ -196,6 +196,19 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 - [DET](https://spritea.github.io/DET/)
 - [CurveLanes](https://github.com/xbjxh/curvelanes)
 
+## Citation
+Use this bibtex to cite this repository:
+```
+@misc{Awesome-Lane-Detection,
+  title={Awesome-Lane-Detection: Some Works of Lane Detection},
+  author={Charmve},
+  year={2020.09},
+  publisher={Github},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/Charmve/Awesome-Lane-Detection}},
+}
+```
+
 ## Contact & Feedback :octocat:
 
 If you have any suggestions about papers, feel free to mail me :)  📧 yidazhang1@gmail.com
