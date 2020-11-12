@@ -215,3 +215,4 @@ If you have any suggestions about papers, feel free to mail me :)  📧 yidazhan
 
 - <a href="https://blog.csdn.net/charmve/category_10281912.html" target="_blank">blog</a>
 - [pull](https://github.com/Charmve/awesome-lane-detection/pulls)
+- [issues](https://github.com/Charmve/Awesome-Lane-Detection/issues)
