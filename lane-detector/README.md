@@ -35,11 +35,13 @@ This repository is for the article ["Tutorial: Build a lane detector"(手把手�
     </tr>
     <tr>
         <td>
+            <pre>
             <code>
             def do_segment(frame):
                 <br>&nbsp;&nbsp;&nbsp;&nbsp;# TODO
                 <br>&nbsp;&nbsp;&nbsp;&nbsp;return None
             </code>
+            </pre>
         </td>
         <td>
             ``checkpoint3.py``
