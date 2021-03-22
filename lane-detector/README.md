@@ -9,17 +9,15 @@ This repository is for the article ["Tutorial: Build a lane detector"(手把手�
 
 ---
 
-## Updates...
-
 ## Set Up
 <table>
     <tr>
-        <td>
+        <th>
             ``detector.py``
-        </td>
-        <td>
+        </th>
+        <th>
             partition
-        </td> 
+        </th> 
     </tr>
     <tr>
         <td>
@@ -105,6 +103,8 @@ This repository is for the article ["Tutorial: Build a lane detector"(手把手�
         </td>
     </tr>
 </table>
+
+## Updates...
 
 
 **03/20/2021**</br>
