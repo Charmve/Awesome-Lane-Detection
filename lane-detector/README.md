@@ -104,6 +104,18 @@ This repository is for the article ["Tutorial: Build a lane detector"(手把手�
     </tr>
 </table>
 
+## Run
+
+1. install opencv
+```
+pip install opencv-python
+```
+3. run ``solution.py``
+
+```
+python3 solution.py
+```
+
 ## Updates...
 
 
