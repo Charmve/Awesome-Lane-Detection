@@ -37,8 +37,8 @@ This repository is for the article ["Tutorial: Build a lane detector"(手把手�
         <td>
             <code>
             def do_segment(frame):
-                # TODO
-                return None
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;# TODO
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;return None
             </code>
         </td>
         <td>
