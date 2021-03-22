@@ -23,11 +23,13 @@ This repository is for the article ["Tutorial: Build a lane detector"(手把手�
     </tr>
     <tr>
         <td>
-        ```
+        <pre>
+            <code>
         def do_canny(frame):
             # TODO
             return None
-        ```
+            </code>
+        </pre>
         </td>
         <td>
             ``checkpoint2.py``
@@ -38,8 +40,8 @@ This repository is for the article ["Tutorial: Build a lane detector"(手把手�
             <pre>
             <code>
             def do_segment(frame):
-                <br>&nbsp;&nbsp;&nbsp;&nbsp;# TODO
-                <br>&nbsp;&nbsp;&nbsp;&nbsp;return None
+                # TODO
+                return None
             </code>
             </pre>
         </td>
@@ -49,11 +51,13 @@ This repository is for the article ["Tutorial: Build a lane detector"(手把手�
     </tr>
      <tr>
         <td>
-            ```python3
+          <pre>
+          <code>
             def calculate_lines(frame, lines):
                 # TODO
                 return None
-            ```
+          </code>
+          </pre>
         </td>
         <td>
             ``checkpoin5.py``
@@ -61,11 +65,13 @@ This repository is for the article ["Tutorial: Build a lane detector"(手把手�
     </tr>
     <tr>
         <td>
-            ```python3
+            <pre>
+            <code>
             def calculate_coordinates(frame, parameters):
                 # TODO
                 return None
-            ```
+            </code>
+            </pre>
         </td>
         <td>
            ``checkpoin5.py``
@@ -73,11 +79,13 @@ This repository is for the article ["Tutorial: Build a lane detector"(手把手�
     </tr>
     <tr>
         <td>
-            ```python3
+            <pre>
+            <code>
             def visualize_lines(frame, lines):
                 # TODO
                 return None
-            ```
+            </code>
+            </pre>
         </td>
         <td>
             ``checkpoint5.py``
@@ -85,10 +93,12 @@ This repository is for the article ["Tutorial: Build a lane detector"(手把手�
     </tr>
     <tr>
         <td>
-            ```python3
+            <pre>
+            <code>
                 # TODO
-                ...
-            ```
+                ```
+            </code>
+            </pre>
         </td>
         <td>
             ``solution.py``
