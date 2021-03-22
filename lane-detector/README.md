@@ -14,11 +14,9 @@ This repository is for the article ["Tutorial: Build a lane detector"(手把手�
 ## Set Up
 <table>
     <tr>
-        <th>
         <td>
             ``detector.py``
         </td>
-        </th>
         <td>
             partition
         </td> 
