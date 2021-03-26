@@ -18,7 +18,7 @@
 
 ## Paper 📑
 
-https://paperswithcode.com/task/lane-detection
+https://paperswithcode.com/task/lane-detection 
 
 ### 2020
 
