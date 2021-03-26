@@ -185,7 +185,7 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 [【Papers】Lane-Detection 近期车道线检测论文阅读总结](https://www.cnblogs.com/lylec/p/13787589.html)
 
 <h3>车道线检测</h3>
-**End-to-end Lane Shape Prediction with Transformers**
+<b>End-to-end Lane Shape Prediction with Transformers</b>
 <p>使用 Transformer 捕获道路中细长车道线特征和全局特征，所发明的车道线检测算法与以往相比，可端到端训练、参数量更少、速度更快（高达 420 fps，单 1080Ti）。</p>
 <p>作者 | Ruijin Liu, Zejian Yuan, Tie Liu, Zhiliang Xiong</p>
 <p>单位 | 西安交通大学；首都师范大学等</p>
