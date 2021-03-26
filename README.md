@@ -22,6 +22,8 @@ https://paperswithcode.com/task/lane-detection
 
 ### 2020
 
+[End-to-end Lane Shape Prediction with Transformers](https://arxiv.org/abs/2007.12147)  CVPR 2020  📂 [Datasets](https://github.com/xbjxh/curvelanes) <a href="https://github.com/lucastabelini/PolyLaneNet" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a> 
+
 [RESA: Recurrent Feature-Shift Aggregator for Lane Detection](https://arxiv.org/abs/2008.13719)
 
 [CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending](https://arxiv.org/abs/2007.12147)  ECCV 2020  📂 [Datasets](https://github.com/xbjxh/curvelanes)
@@ -30,7 +32,7 @@ https://paperswithcode.com/task/lane-detection
 
 [Structure-Aware Network for Lane Marker Extraction with Dynamic Vision Sensor](https://arxiv.org/abs/2008.06204)
 
-[Lane Detection Model Based on Spatio-Temporal Network with Double ConvGRUs](https://arxiv.org/abs/2008.03922)
+[Lane Detection Model Based on Spatio-Temporal Network with Double ConvGRUs](https://arxiv.org/abs/2008.03922) <a href="https://github.com/zhangjy2008327/lane-detection-with-double-convgrus" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a>
 
 [Heatmap-based Vanishing Point boosts Lane Detection](https://arxiv.org/abs/2007.15602)
 
@@ -42,7 +44,7 @@ https://paperswithcode.com/task/lane-detection
 
 [Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)  <a href="https://github.com/cfzd/Ultra-Fast-Lane-Detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a>  ECCV 2020
 
-[PolyLaneNet: Lane Estimation via Deep Polynomial Regression](https://github.com/lucastabelini/PolyLaneNet) <a href="https://github.com/lucastabelini/PolyLaneNet" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a> 
+[PolyLaneNet: Lane Estimation via Deep Polynomial Regression](https://arxiv.org/abs/2004.10924) <a href="https://github.com/lucastabelini/PolyLaneNet" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a> 
 
 [Inter-Region Affinity Distillation for Road Marking Segmentation](https://arxiv.org/abs/2004.05304) <a href="https://github.com/cardwing/Codes-for-IntRA-KD" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a>  CVPR 2020
 
@@ -80,7 +82,7 @@ https://paperswithcode.com/task/lane-detection
 
 [Enhanced free space detection in multiple lanes based on single CNN with scene identification](https://arxiv.org/abs/1905.00941) IV2019 <a href="https://github.com/fabvio/ld-lsi/" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a>
 
-[Robust Lane Detection from Continuous Driving Scenes Using Deep Neural Networks](https://arxiv.org/abs/1903.02193)
+[Robust Lane Detection from Continuous Driving Scenes Using Deep Neural Networks](https://arxiv.org/abs/1903.02193) <a href="https://github.com/NickLucche/lane-detection" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a>
 
 [End-to-end Lane Detection through Differentiable Least-Squares Fitting](https://arxiv.org/abs/1902.00293)  <a href="https://github.com/wvangansbeke/LaneDetection_End2End" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> GitHub</a>
 
@@ -195,6 +197,7 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 - [The Lane Marker Dataset](https://unsupervised-llamas.com/llamas/)
 - [DET](https://spritea.github.io/DET/)
 - [CurveLanes](https://github.com/xbjxh/curvelanes)
+- [HD Maps](http://apolloscape.auto/lane_segmentation.html) 
 
 ## Citation
 Use this bibtex to cite this repository:
