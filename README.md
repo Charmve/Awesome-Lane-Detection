@@ -184,7 +184,7 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 
 [【Papers】Lane-Detection 近期车道线检测论文阅读总结](https://www.cnblogs.com/lylec/p/13787589.html)
 
-<h3>车道线检测</h3>
+<h4>车道线检测</h4>
 <b>End-to-end Lane Shape Prediction with Transformers</b>
 <p>使用 Transformer 捕获道路中细长车道线特征和全局特征，所发明的车道线检测算法与以往相比，可端到端训练、参数量更少、速度更快（高达 420 fps，单 1080Ti）。</p>
 <p>
@@ -195,7 +195,7 @@ https://github.com/wvangansbeke/LaneDetection_End2End
     - 详解 | <a href="https://zhuanlan.zhihu.com/p/287808317" target="_blank">Transformer 又立功了！又快(420 fps)又好的车道线检测算法</a>
 </p>
 <p align="center">
-    <img src="https://pic3.zhimg.com/v2-b78467c47f7fa822077e357db2c10fde_b.jpg" data-caption="" data-size="normal" class="content_image"/>
+    <img src="https://pic3.zhimg.com/80/v2-b78467c47f7fa822077e357db2c10fde_720w.jpg" data-caption="" data-size="normal" class="content_image"/>
 </p>
 
 ## Datasets 📂
